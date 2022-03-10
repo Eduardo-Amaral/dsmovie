@@ -8,6 +8,7 @@ import Form from 'pages/Form';
 import Navbar from "components/Navbar";
 
 function App() {
+  alert('Esse site utiliza hospedagem gratuita, portanto, é possível que haja um delay ao carregar as informações');
   return (
     <BrowserRouter>
       <Navbar />
