@@ -1,23 +1,23 @@
 # 🎥 DSMovie
-> Project of the intensive [Semana Spring React](https://learn.devsuperior.com/), with the prefessor Nélio Alves, of DevSuperior. 
+> Projeto do intensivo [Semana Spring React](https://learn.devsuperior.com/), com o prefessor Nélio Alves, da DevSuperior. 
 <hr>
 <br>
 
-## 📜 About the Project 
+## 📜 Sobre o Projeto
 
-### 🎯 Resume:
-The DSMovie is a movie review app, where the user choose the movie wanted, enter his email and the note for the choosed movie(1 to 5).
-Email has used as userId, so that a user don't make multiples reviews of the same movie, disturbing the final average punctuation.
+### 🎯 Resumo:
+O DSMovie é um aplicativo de avaliação de filmes, onde o usuário escolhe o filme desejado, insere seu e-mail e a nota do filme escolhido (1 a 5).
+O email foi usado como userId, para que um usuário não faça várias resenhas do mesmo filme, atrapalhando a pontuação média final.
 
 ### 📐 Design:
-You can look the design of the DSMovie here: https://dsmovie-amaral.netlify.app/
+Você pode ver o design do app aqui: https://dsmovie-amaral.netlify.app/
 
-### 🚀 Access:
+### 🚀 Acesso:
 This is the link to access the website: https://dsmovie-amaral.netlify.app/
 
->In few seconds, the movies will appears in the screen, so you can choose your movie and put a punctuation.
+>Em poucos segundos, os filmes aparecerão na tela, para que você possa escolher seu filme e colocar uma pontuação.
 
-## 🧰 Technologies Used
+## 🧰 Tecnologias Utilizadas:
 
 ### 💻 Front-End:
 - Typescript
