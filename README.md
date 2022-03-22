@@ -33,7 +33,7 @@ This is the link to access the website: https://dsmovie-amaral.netlify.app/
 - Maven
 - Spring Tool Suite
 
-### 🗒️ Others:
+### 🗒️ Outros:
 - PgAdmin
 - PostMan
 - Netlify
